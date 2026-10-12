@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pem
+*.key
+credentials.json
+secrets.json
+.databrickscfg
+data/
+*.csv
+*.parquet
+*.log
+~$*.pbix
